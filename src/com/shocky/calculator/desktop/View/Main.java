@@ -31,5 +31,6 @@ public class Main {
 
 
         Window mainWindow = new Window();
+        mainWindow.add(new NumberButton());
     }
 }

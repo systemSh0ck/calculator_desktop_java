@@ -1,11 +1,12 @@
 package com.shocky.calculator.desktop.View;
 
 import javax.swing.*;
+import java.awt.*;
 
 /**
  * Created by bivanovic on 03/10/2016.
  */
-public class Window {
+public class Window extends JFrame {
 
     private int windowWidth;
     private int windowHeight;
